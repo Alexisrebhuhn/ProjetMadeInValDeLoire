@@ -14,8 +14,8 @@ Ce projet est effectué sous forme de groupe, le meilleur groupe ira au salon po
 --------------------------------------------
 
 Nom des personnes sur ce projet (au sein du groupe).                                                             
-SLAM (Développeurs): Arthur Augis, Lou-Enzo Quetineau & Alexis Rebhuhn.                                          
-SISR (Réseau): Cyrian Picard & Cédric Moisan.
+SLAM (Développeurs): Kenan Turhan, Victor Poullin & Alexis Rebhuhn.                                          
+
 
 
 
